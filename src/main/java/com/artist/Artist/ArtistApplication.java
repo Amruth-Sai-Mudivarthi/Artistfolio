@@ -1,3 +1,4 @@
+//Copyright (c) 2025 Amruth Sai Mudivarthi
 package com.artist.Artist;
 
 import org.springframework.boot.SpringApplication;
